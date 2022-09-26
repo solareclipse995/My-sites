@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Loona</title>
+    <link href="https://solareclipse995.github.io/My-sites/feed.xml" rel="self" />
+    <link href="https://solareclipse995.github.io/My-sites" />
+    <updated>2022-09-26T21:57:15+03:00</updated>
+    <author>
+        <name>Light</name>
+    </author>
+    <id>https://solareclipse995.github.io/My-sites</id>
+
+    <entry>
+        <title>Это пробный пост на русском языке</title>
+        <author>
+            <name>Light</name>
+        </author>
+        <link href="https://solareclipse995.github.io/My-sites/p1/"/>
+        <id>https://solareclipse995.github.io/My-sites/p1/</id>
+
+        <updated>2022-09-26T21:57:15+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://solareclipse995.github.io/My-sites/media/posts/1/2022-08-11-16-24.jpg" alt="" />
+                    Post in Russian Этот пост написан чисто для пробы Here's a little comic😅😘🙂
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://solareclipse995.github.io/My-sites/media/posts/1/2022-08-11-16-24.jpg" alt="" />
+                <p><strong>Post in Russian</strong></p>
+<p>Этот пост написан чисто для пробы</p>
+<p>Here's a little comic😅😘🙂</p>
+<figure class="post__image"><img loading="lazy"  src="https://solareclipse995.github.io/My-sites/media/posts/1/a_generous_makeover___rarity_tf_by_axiomtf_dfbuug6.png" sizes="100vw" srcset="https://solareclipse995.github.io/My-sites/media/posts/1/responsive/a_generous_makeover___rarity_tf_by_axiomtf_dfbuug6-xs.png 300w ,https://solareclipse995.github.io/My-sites/media/posts/1/responsive/a_generous_makeover___rarity_tf_by_axiomtf_dfbuug6-sm.png 480w ,https://solareclipse995.github.io/My-sites/media/posts/1/responsive/a_generous_makeover___rarity_tf_by_axiomtf_dfbuug6-md.png 768w ,https://solareclipse995.github.io/My-sites/media/posts/1/responsive/a_generous_makeover___rarity_tf_by_axiomtf_dfbuug6-lg.png 1024w ,https://solareclipse995.github.io/My-sites/media/posts/1/responsive/a_generous_makeover___rarity_tf_by_axiomtf_dfbuug6-xl.png 1360w ,https://solareclipse995.github.io/My-sites/media/posts/1/responsive/a_generous_makeover___rarity_tf_by_axiomtf_dfbuug6-2xl.png 1600w"  alt="" width="3366" height="1300"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

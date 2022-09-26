@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Loona",
+    "description": "",
+    "home_page_url": "https://solareclipse995.github.io/My-sites",
+    "feed_url": "https://solareclipse995.github.io/My-sites/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Light"
+    },
+    "items": [
+        {
+            "id": "https://solareclipse995.github.io/My-sites/p1/",
+            "url": "https://solareclipse995.github.io/My-sites/p1/",
+            "title": "Это пробный пост на русском языке",
+            "summary": "Post in Russian Этот пост написан чисто для пробы Here's a little comic😅😘🙂",
+            "content_html": "<p><strong>Post in Russian</strong></p>\n<p>Этот пост написан чисто для пробы</p>\n<p>Here's a little comic😅😘🙂</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://solareclipse995.github.io/My-sites/media/posts/1/a_generous_makeover___rarity_tf_by_axiomtf_dfbuug6.png\" sizes=\"100vw\" srcset=\"https://solareclipse995.github.io/My-sites/media/posts/1/responsive/a_generous_makeover___rarity_tf_by_axiomtf_dfbuug6-xs.png 300w ,https://solareclipse995.github.io/My-sites/media/posts/1/responsive/a_generous_makeover___rarity_tf_by_axiomtf_dfbuug6-sm.png 480w ,https://solareclipse995.github.io/My-sites/media/posts/1/responsive/a_generous_makeover___rarity_tf_by_axiomtf_dfbuug6-md.png 768w ,https://solareclipse995.github.io/My-sites/media/posts/1/responsive/a_generous_makeover___rarity_tf_by_axiomtf_dfbuug6-lg.png 1024w ,https://solareclipse995.github.io/My-sites/media/posts/1/responsive/a_generous_makeover___rarity_tf_by_axiomtf_dfbuug6-xl.png 1360w ,https://solareclipse995.github.io/My-sites/media/posts/1/responsive/a_generous_makeover___rarity_tf_by_axiomtf_dfbuug6-2xl.png 1600w\"  alt=\"\" width=\"3366\" height=\"1300\"></figure>",
+            "image": "https://solareclipse995.github.io/My-sites/media/posts/1/2022-08-11-16-24.jpg",
+            "author": {
+                "name": "Light"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-26T21:55:50+03:00",
+            "date_modified": "2022-09-26T21:57:15+03:00"
+        }
+    ]
+}
